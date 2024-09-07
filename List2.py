@@ -1,0 +1,17 @@
+Fruits = []
+
+f1 = input("1st Fruit : ")
+Fruits.append(f1)
+f1 = input("2nd Fruit : ")
+Fruits.append(f1)
+f1 = input("3rd Fruit : ")
+Fruits.append(f1)
+f1 = input("4th Fruit : ")
+Fruits.append(f1)
+f1 = input("5th Fruit : ")
+Fruits.append(f1)
+f1 = input("6th Fruit : ")
+Fruits.append(f1)
+f1 = input("7th Fruit : ")
+Fruits.append(f1)
+print(Fruits)
