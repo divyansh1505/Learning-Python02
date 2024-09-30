@@ -12,5 +12,5 @@ for i in range(11):
 
 print(Cricketers) 
 
-#Wrote this code without learning about For loop in python 
+#Wrote this code without learning about For loop in python isliye didnt knew about that 
 
